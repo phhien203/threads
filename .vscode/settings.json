@@ -1,7 +1,4 @@
 {
-  "cSpell.words": [
-    "Bottombar",
-    "rightsidebar",
-    "uploadthing"
-  ]
+  "cSpell.words": ["Bottombar", "rightsidebar", "uploadthing"],
+  "typescript.preferences.importModuleSpecifier": "non-relative"
 }
